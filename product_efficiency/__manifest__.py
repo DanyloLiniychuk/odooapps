@@ -12,7 +12,7 @@
     # data files always loaded at installation
     'data': [
     ],
-    'images': ['product_efficiency/static/src/images/main_screenshot.png'],
+    'images': ['static/src/images/main_screenshot.png'],
     'installable': True,
     'application': True,
     'auto_install': False,
