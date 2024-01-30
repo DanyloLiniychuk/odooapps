@@ -1,0 +1,19 @@
+{
+    'name': "Product Efficiency",
+    'version': '16.0.1',
+    'depends': [
+        'base',
+    ],
+    'author': "Author Name",
+    'category': '',
+    'description': """
+    Description text
+    """,
+    # data files always loaded at installation
+    'data': [
+    ],
+    'images': ['product_efficiency/src/images/main_screenshot.png'],
+    'installable': True,
+    'application': True,
+    'auto_install': False,
+}
